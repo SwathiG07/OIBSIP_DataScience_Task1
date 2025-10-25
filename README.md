@@ -11,7 +11,7 @@ Classify iris flowers into three species (Setosa, Versicolor, Virginica) using m
 5. Evaluated models using **accuracy score** and **classification report**.
 
 ## Tools / Technologies Used
-- Python 3.x
+- Python 3.12
 - scikit-learn (`LogisticRegression`, `SVC`, `accuracy_score`, `classification_report`)
 - Jupyter Notebook or Google Colab
 
